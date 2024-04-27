@@ -1,4 +1,4 @@
-#Using structure Function 
+#Using structureFunction 
 	#include <iostream>
 	using namespace std;
 
